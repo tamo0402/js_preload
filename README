@@ -1,1 +1,27 @@
-<font color="red">タグッテツカエルノ？</font>
+## jQuery preload
+
+
+jqueryを使った画像のプレロードです。
+私が作ったわけではありません。
+
+
+下記にアップされているコードの自分が使う部分だけを抜き出して、
+loadイベント時に動くようにしたものです。
+https://github.com/Takazudo/jQuery.ImgLoader
+
+
+なので仕様やライセンスは本家様と同じです。
+
+
+## Depends
+
+jQuery 1.7.1
+
+## Browsers
+
+IE6+ and other new browsers
+
+## License
+
+Copyright (c) 2012 "Takazudo" Takeshi Takatsudo
+Licensed under the MIT license.
